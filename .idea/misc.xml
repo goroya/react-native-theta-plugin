@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Erlang</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Unknown Elixir version at C:/Program Files (x86)/Elixir" project-jdk-type="Elixir SDK" />
+  <component name="ReactNativePackager" nodePath="project" reactNativePackagePath="$USER_HOME$/AppData/Roaming/npm/node_modules/react-native-cli" workingDirectory="C:\Users\goroy\IdeaProjects\react-native-theta-plugin-sdk\packages\ts_example_plugin" />
+  <component name="RebarSettings">
+    <rebarPath>C:/tools_path/rebar3</rebarPath>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+{
+	"name": "react-native-theta-plugin",
+	"title": "React Native Theta Plugin",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/github_account/react-native-theta-plugin.git",
+		"baseUrl": "https://github.com/github_account/react-native-theta-plugin"
+	},
+	"keywords": [
+		"react-native"
+	],
+	"author": {
+		"name": "Your Name",
+		"email": "yourname@email.com"
+	},
+	"license": "Apache-2.0",
+	"licenseFilename": "LICENSE",
+	"readmeFilename": "README.md",
+	"dependencies": {
+		"eventemitter2": "^5.0.1"
+	},
+	"peerDependencies": {
+		"react": "16.2.0",
+		"react-native": "^0.52.0"
+	},
+	"devDependencies": {
+		"react": "16.2.0",
+		"react-native": "^0.52.0"
+	}
+}
