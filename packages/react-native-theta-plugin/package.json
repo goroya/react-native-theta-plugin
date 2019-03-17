@@ -2,7 +2,7 @@
 	"name": "react-native-theta-plugin",
 	"title": "React Native Theta Plugin",
 	"version": "0.0.2",
-	"description": "",
+	"description": "wrapper for the theta-plugin-library for react native.",
 	"main": "index.js",
 	"types": "index.d.ts",
 	"repository": {
@@ -11,11 +11,12 @@
 		"baseUrl": "https://github.com/github_account/react-native-theta-plugin"
 	},
 	"keywords": [
-		"react-native"
+		"react-native",
+		"theta"
 	],
 	"author": {
-		"name": "Your Name",
-		"email": "yourname@email.com"
+		"name": "goroya.io",
+		"email": "goroyadevelop@gmail.com"
 	},
 	"license": "Apache-2.0",
 	"licenseFilename": "LICENSE",
