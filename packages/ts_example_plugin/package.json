@@ -1,13 +1,13 @@
 {
 	"name": "ts_example_plugin",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"private": true,
 	"dependencies": {
 		"eventemitter2": "^5.0.1",
 		"native-base": "^2.12.1",
 		"react": "16.8.3",
 		"react-native": "0.59.1",
-		"react-native-theta-plugin": "^0.0.2"
+		"react-native-theta-plugin": "^0.0.3"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.3.4",
