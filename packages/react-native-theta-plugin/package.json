@@ -1,7 +1,7 @@
 {
 	"name": "react-native-theta-plugin",
 	"title": "React Native Theta Plugin",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "wrapper for the theta-plugin-library for react native.",
 	"main": "index.js",
 	"types": "index.d.ts",
