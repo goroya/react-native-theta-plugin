@@ -210,6 +210,7 @@ class RNThetaPluginModule(private val reactContext: ReactApplicationContext)
     @ReactMethod
     fun setAutoClose(autoClose: Boolean, promise: Promise) {
         isAutoClose = autoClose
+        promise.resolve()
     }
 
     @ReactMethod
@@ -372,7 +373,6 @@ class RNThetaPluginModule(private val reactContext: ReactApplicationContext)
         val ledTarget = LedTarget.getValue(ledTargetStr)
         var ledColor = LedColor.getValue(ledColorStr)
 
-        var period = period
         if (ledColor == null) {
             ledColor = LedColor.BLUE
         }
@@ -435,7 +435,6 @@ class RNThetaPluginModule(private val reactContext: ReactApplicationContext)
             targets.add(targetsJs.getString(i))
             i++
         }
-        val a: Array<String?> = targets.toTypedArray()
 
         val intent = Intent(Constants.ACTION_DATABASE_UPDATE)
         intent.putExtra(Constants.TARGETS, targets)
