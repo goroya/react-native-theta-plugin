@@ -7,8 +7,8 @@
 	"types": "index.d.ts",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/github_account/react-native-theta-plugin.git",
-		"baseUrl": "https://github.com/github_account/react-native-theta-plugin"
+		"url": "git+https://github.com/goroya/react-native-theta-plugin.git",
+		"baseUrl": "https://github.com/goroya/react-native-theta-plugin"
 	},
 	"keywords": [
 		"react-native",
@@ -30,6 +30,6 @@
 	},
 	"devDependencies": {
 		"react": "16.2.0",
-		"react-native": "^0.52.0"
+		"react-native": "^0.59.1"
 	}
 }
